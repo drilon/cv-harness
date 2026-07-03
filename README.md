@@ -250,7 +250,7 @@ The agent flags it and stops or asks. That flag is valuable: it is the differenc
 
 ## Author
 
-Created by **Drilon Potera**, who built the first harness for his own job search and got tired of watching AI round $145.5M to $146M.
+Created by **Drilon Potera**, who built the first harness because he got tired of watching AI round $145.5M to $146M.
 
 Contributions welcome via pull request: better section patterns, playbook examples for other professions, translations.
 
